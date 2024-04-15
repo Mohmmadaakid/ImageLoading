@@ -21,7 +21,7 @@ Error Handling: Gracefully handles network errors and image loading failures,
 Zoom Functionality: Utilizes com.jsibbold:zoomage library to enable zooming 
 capability on images.
 
-ependencies
+dependencies
 
   com.github.bumptech.glide:glide
   com.squareup.retrofit2:retrofit
