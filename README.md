@@ -23,7 +23,7 @@ capability on images.
 
 dependencies
 
-  com.github.bumptech.glide:glide
-  com.squareup.retrofit2:retrofit
-  com.squareup.retrofit2:converter-gson
+  com.github.bumptech.glide:glide,
+  com.squareup.retrofit2:retrofit,
+  com.squareup.retrofit2:converter-gson,
   com.jsibbold:zoomage
